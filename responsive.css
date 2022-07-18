@@ -1,0 +1,16 @@
+@media screen and (max-width:980px){
+    nav{
+        display: none;
+    }
+
+#mobile_menu_icon{
+    display: block;
+    float: right;
+    color: white;
+    font-size: 30px;
+    margin: -95px -50px 0px 0px;
+}
+
+.container{
+    width: 95%;
+}
